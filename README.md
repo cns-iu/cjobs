@@ -6,10 +6,10 @@ This repository provides code and data access for the paper "Skill Discrepancies
 Data: Contains all data files that can be shared openly.
  
 For extracting skills from jobs, courses, and publication data, you will need the following: 
-- TextPreprocess: removing stopwords and punctuation.
-- Dicts: Lexical resources used in skill extraction algorithms.
-- Five different algorithms implementation for skill extraction: ExactMatching, MaxMatching, NgramMatching, StandfordLLDA, and StandfordNER.
-- Measurement: performance evaluation of skill extraction algorithms: precision, recall and F1.
+1. TextPreprocess: removing stopwords and punctuation.
+2. Dicts: Lexical resources used in skill extraction algorithms.
+3. Five different algorithms implementation for skill extraction: ExactMatching, MaxMatching, NgramMatching, StandfordLLDA, and StandfordNER.
+4. Measurement: performance evaluation of skill extraction algorithms: precision, recall and F1.
 
 Contact Xiaozhong Liu <liu237@indiana.edu>, Olga B. Scrivner <obscrivn@indiana.edu>, or  Shutian Ma <mashutian0608@hotmail.com> if there are questions or concerns.
 
