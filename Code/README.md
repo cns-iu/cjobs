@@ -24,7 +24,7 @@ If it is close to 1, it's weak, if it is high, the causality has a big effect.
 
 # Kullback-Leibler Divergence
 
-- KL is used to measure two distributions. It will calculate how much information is lost when we compare one distribution with another.
+> KL is used to measure two distributions. It will calculate how much information is lost when we compare one distribution with another.
 
 More information: https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
 
