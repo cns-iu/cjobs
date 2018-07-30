@@ -1,7 +1,7 @@
 # cjobs
 
  
-This repository provides code and data access for the paper "Skill Discrepancies Between Research, Education, and Jobs Reveal the Critical Need to Supply Human Skills for the Data Economy":
+This repository provides code and data access for the paper "Skill Discrepancies Between Research, Education, and Jobs Reveal the Critical Need to Supply Soft Skills for the Data Economy":
  
 For extracting skills from jobs, courses, and publication data, you will need the following: 
 1. TextPreprocess: removing stopwords and punctuation.
