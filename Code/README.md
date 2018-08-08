@@ -1,4 +1,9 @@
 
+# Hawkes Process
+
+Multivariate Hawkes Processes calculations use the multivariate Hawkes processes library at https://github.com/stmorse/hawkes.
+Morse ST (2017) Persistent cascades and the structure of influence in a communication network. Dissertation (Massachusetts Institute of Technology)
+
 # Granger Causality
 
 **Statsmodels** is a python library for statistical and econometric analysis (see - http://www.statsmodels.org/stable/index.html)
