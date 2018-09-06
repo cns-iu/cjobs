@@ -9,7 +9,7 @@ For extracting skills from jobs, courses, and publication data, you will need th
 3. Five different algorithms implementation for skill extraction: ExactMatching, MaxMatching, NgramMatching, StandfordLLDA, and StandfordNER.
 4. Measurement: performance evaluation of skill extraction algorithms: precision, recall and F1.
 5. Data: Skill types.
-6. UserStudy: Study instrument
+6. UserStudy: Study instrument.
 
 Contact Xiaozhong Liu <liu237@indiana.edu>, Olga B. Scrivner <obscrivn@indiana.edu>, or  Shutian Ma <mashutian0608@hotmail.com> if there are questions or concerns.
 
