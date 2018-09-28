@@ -23,3 +23,5 @@ Jones E, Oliphant E, Peterson P, et al. SciPy: Open Source Scientific Tools for 
 
 Hyperbolic embedding is used to create Figure 7 along with Hawkes process results. Code for embedding is modified from https://github.com/facebookresearch/poincare-embeddings. 
 
+# Burst Analysis
+Burst detection algorithm (Kleinberg, 2002) and available in the Sci2 Tool (2009) is used to create Figure 6. Data for the code is available in cjobs/code.
