@@ -1,0 +1,8 @@
+cation	visi	1010
+cation	whi	1206
+cept	whi	1291
+instruction	whi	1089
+research	whi	1061
+rpo	whi	1018
+visi	whi	1264
+whi	writing	1073

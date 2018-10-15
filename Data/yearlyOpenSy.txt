@@ -1,0 +1,10 @@
+invoice verification	0	1	1	0	2	1	2
+natural gas industry experience	0	0	0	0	0	0	0
+emergency vehicle operation	39	68	51	53	114	119	134
+mendelian inheritance	98	93	153	237	473	418	460
+hipaa compliance	26	20	31	76	86	102	88
+revenue operations	0	0	0	0	0	0	0
+basic finishing tools	0	0	0	0	0	0	0
+sqlite	23	79	74	151	111	144	153
+equipment specification development	0	0	0	0	0	0	0
+hand mentor	1	0	2	0	1	0	0
