@@ -44,16 +44,17 @@ public class MaxMatching
         	{
         		if (line.contains(" ")) 
         		{
-            		line=line.trim();
-            		DIC.add(line.toLowerCase());  
-                	int wordnum = mm.wl(line);
-                	if(wordnum>max)
-                	{  
-                		max=wordnum;  
-                	}
-				}
+            			line=line.trim();
+            			DIC.add(line.toLowerCase());  
+                		int wordnum = mm.wl(line);
+                		if(wordnum>max)
+                		{  
+                			max=wordnum;  
+                		}
+			}
         	}  
         	System.out.println("Adding skills into dictionary...");
+		MAX_LENGTH = max;
         	
         	String url = "jdbc:postgresql://#";
         	//property settings for user,passwords and so on	
